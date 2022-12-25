@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+    color: white;
+    text-transform: capitalize;
+}
+
+header{
+    background-color: #4d538c;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    line-height: 2px;
+}

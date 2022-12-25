@@ -1,0 +1,35 @@
+.card{
+    margin-top: 10px;
+    margin-left: 20px;
+ 
+    width: 200px;
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.card{
+    background-color: #856957;
+    border-radius: 10px ;
+}
+
+h1{
+    color: white;
+    padding-top: 10px;
+}
+img{
+    width: 150px;
+    height: 150;
+}
+.paragrafo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+main{
+    width: 220px;
+    display: inline-block;
+}
