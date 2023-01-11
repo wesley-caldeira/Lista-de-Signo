@@ -1,5 +1,5 @@
 # Sognos do Zodiaco ♍
-
+<img src="https://img.shields.io/badge/Status%20do%20Projeto-Completado-green">
 <img src="my-app\src\assets\layout\signos.png">
 
     O objetivo do projeto é criar uma Landing Page com os signos do zoodiacos ultilizando a ferramenta de (props) criando assim uma landing page como um codigo clear e com melhor visualização.
